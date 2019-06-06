@@ -6,7 +6,9 @@ This repository has common footprints and symbols used across projects. In each 
 git add submodule https://github.com/hutscape/kicad-library.git hardware/library
 ```
 
-<!-- START doctoc  -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+- [Symbols](#symbols)
 
 - [Symbols](#symbols)
   - [Adafruit_nRF52_feather](#adafruit_nrf52_feather)
@@ -20,8 +22,9 @@ git add submodule https://github.com/hutscape/kicad-library.git hardware/library
   - [Si7021](#si7021)
   - [wemos_d1_mini](#wemos_d1_mini)
   - [wemos_battery_shield](#wemos_battery_shield-1)
+  - [VEML6075_breakout_board](#veml6075_breakout_board)
 
-<!-- END doctoc  -->
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Symbols
 
@@ -66,3 +69,7 @@ git add submodule https://github.com/hutscape/kicad-library.git hardware/library
 ## wemos_battery_shield
 
 ![](images/footprints/wemos_battery_shield.png)
+
+## VEML6075_breakout_board
+
+![](images/footprint/VEML6075_breakout_board.png)
