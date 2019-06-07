@@ -72,4 +72,12 @@ git add submodule https://github.com/hutscape/kicad-library.git hardware/library
 
 ## VEML6075_breakout_board
 
-![](images/footprint/VEML6075_breakout_board.png)
+![](images/footprints/VEML6075_breakout_board.png)
+
+## nRF52 Bluefruit Feather Adafruit breakout board
+
+![](images/footprints/nrf52_bluefruit_Adafruit_breakout_board.png)
+
+## CREE RGB LED 5.5mm x 5.5mm 6pin
+
+![](images/footprints/cree_rgb_led_55x55mm.png)
