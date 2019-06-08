@@ -1,5 +1,5 @@
-(module Tactile_pushbutton (layer F.Cu) (tedit 5C99C65E)
-  (fp_text reference SW1 (at 6.096 1.016) (layer F.SilkS)
+(module Tactile_pushbutton (layer F.Cu) (tedit 5CFB5B40)
+  (fp_text reference REF** (at 0.5334 3.9624) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value SW_Push (at 0 -2.54) (layer F.Fab)
