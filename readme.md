@@ -23,6 +23,9 @@ git add submodule https://github.com/hutscape/kicad-library.git hardware/library
   - [wemos_d1_mini](#wemos_d1_mini)
   - [wemos_battery_shield](#wemos_battery_shield-1)
   - [VEML6075_breakout_board](#veml6075_breakout_board)
+  - [nRF52 Bluefruit Feather Adafruit breakout board](#nrf52-bluefruit-feather-adafruit-breakout-board)
+  - [CREE RGB LED 5.5mm x 5.5mm 6pin](#cree-rgb-led-55mm-x-55mm-6pin)
+  - [Connector USB Micro-B Horizontal](#connector-usb-micro-b-horizontal)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -81,3 +84,5 @@ git add submodule https://github.com/hutscape/kicad-library.git hardware/library
 ## CREE RGB LED 5.5mm x 5.5mm 6pin
 
 ![](images/footprints/cree_rgb_led_55x55mm.png)
+
+## Connector USB Micro-B Horizontal
