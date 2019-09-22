@@ -86,3 +86,5 @@ git add submodule https://github.com/hutscape/kicad-library.git hardware/library
 ![](images/footprints/cree_rgb_led_55x55mm.png)
 
 ## Connector USB Micro-B Horizontal
+
+![](images/footprints/Connector_USB_Micro-B-Horizontal.png)
