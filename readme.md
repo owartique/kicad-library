@@ -26,6 +26,7 @@ git add submodule https://github.com/hutscape/kicad-library.git hardware/library
   - [nRF52 Bluefruit Feather Adafruit breakout board](#nrf52-bluefruit-feather-adafruit-breakout-board)
   - [CREE RGB LED 5.5mm x 5.5mm 6pin](#cree-rgb-led-55mm-x-55mm-6pin)
   - [Connector USB Micro-B Horizontal](#connector-usb-micro-b-horizontal)
+  - [Battery holder for 3xAA Takachi](#battery-holder-for-3xaa-takachi)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -88,3 +89,7 @@ git add submodule https://github.com/hutscape/kicad-library.git hardware/library
 ## Connector USB Micro-B Horizontal
 
 ![](images/footprints/Connector_USB_Micro-B-Horizontal.png)
+
+## Battery holder for 3xAA Takachi
+
+![](images/BatteryHolder_Takachi_3xAA.png)
