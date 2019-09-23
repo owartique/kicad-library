@@ -92,4 +92,4 @@ git add submodule https://github.com/hutscape/kicad-library.git hardware/library
 
 ## Battery holder for 3xAA Takachi
 
-![](images/BatteryHolder_Takachi_3xAA.png)
+![](images/footprints/BatteryHolder_Takachi_3xAA.png)
