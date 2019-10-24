@@ -27,6 +27,7 @@ git add submodule https://github.com/hutscape/kicad-library.git hardware/library
   - [CREE RGB LED 5.5mm x 5.5mm 6pin](#cree-rgb-led-55mm-x-55mm-6pin)
   - [Connector USB Micro-B Horizontal](#connector-usb-micro-b-horizontal)
   - [Battery holder for 3xAA Takachi](#battery-holder-for-3xaa-takachi)
+  - [Passives 0805](#passives-0805)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -93,3 +94,25 @@ git add submodule https://github.com/hutscape/kicad-library.git hardware/library
 ## Battery holder for 3xAA Takachi
 
 ![](images/footprints/BatteryHolder_Takachi_3xAA.png)
+
+## Passives 0805
+
+Capacitor
+
+![](images/capacitor_0805.png)
+
+Diode
+
+![](images/diode_0805.png)
+
+LED
+
+![](images/led_0805.png)
+
+Inductor
+
+![](images/inductor_0805.png)
+
+Resistor
+
+![](images/resistor_0805.png)
