@@ -99,20 +99,20 @@ git add submodule https://github.com/hutscape/kicad-library.git hardware/library
 
 Capacitor
 
-![](images/capacitor_0805.png)
+![](images/footprints/capacitor_0805.png)
 
 Diode
 
-![](images/diode_0805.png)
+![](images/footprints/diode_0805.png)
 
 LED
 
-![](images/led_0805.png)
+![](images/footprints/led_0805.png)
 
 Inductor
 
-![](images/inductor_0805.png)
+![](images/footprints/inductor_0805.png)
 
 Resistor
 
-![](images/resistor_0805.png)
+![](images/footprints/resistor_0805.png)
