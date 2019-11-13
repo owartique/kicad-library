@@ -6,6 +6,8 @@
 - [Si7021_breakout_board](#si7021_breakout_board)
 - [wemos_battery_shield](#wemos_battery_shield)
 - [wemos_mini](#wemos_mini)
+- [Adafruit LoRaWAN RFM9x](#adafruit_lorawan_rfm9x)
+- [GPS PA1010D](#gps-pa1010d)
 
 ## Adafruit_nRF52_feather
 
@@ -30,3 +32,11 @@
 ## wemos_mini
 
 ![](../images/symbols/wemos_mini.png)
+
+## Adafruit_LoRaWAN_RFM9x
+
+![](../images/symbols/adafruit_lorawan_rfm9x.png)
+
+## GPS_PA1010D
+
+![](../images/symbols/PA1010D.png)
