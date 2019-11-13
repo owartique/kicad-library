@@ -13,58 +13,58 @@
 
 ## Push_Button
 
-![](images/footprints/Push_Button.png)
+![](../images/footprints/Push_Button.png)
 
 ## Si7021
 
-![](images/footprints/Si7021.png)
+![](../images/footprints/Si7021.png)
 
 ## wemos_d1_mini
 
-![](images/footprints/wemos_d1_mini.png)
+![](../images/footprints/wemos_d1_mini.png)
 
 ## wemos_battery_shield
 
-![](images/footprints/wemos_battery_shield.png)
+![](../images/footprints/wemos_battery_shield.png)
 
 ## VEML6075_breakout_board
 
-![](images/footprints/VEML6075_breakout_board.png)
+![](../images/footprints/VEML6075_breakout_board.png)
 
 ## nRF52 Bluefruit Feather Adafruit breakout board
 
-![](images/footprints/nrf52_bluefruit_Adafruit_breakout_board.png)
+![](../images/footprints/nrf52_bluefruit_Adafruit_breakout_board.png)
 
 ## CREE RGB LED 5.5mm x 5.5mm 6pin
 
-![](images/footprints/cree_rgb_led_55x55mm.png)
+![](../images/footprints/cree_rgb_led_55x55mm.png)
 
 ## Connector USB Micro-B Horizontal
 
-![](images/footprints/Connector_USB_Micro-B-Horizontal.png)
+![](../images/footprints/Connector_USB_Micro-B-Horizontal.png)
 
 ## Battery holder for 3xAA Takachi
 
-![](images/footprints/BatteryHolder_Takachi_3xAA.png)
+![](../images/footprints/BatteryHolder_Takachi_3xAA.png)
 
 ## Passives 0805
 
 Capacitor
 
-![](images/footprints/capacitor_0805.png)
+![](../images/footprints/capacitor_0805.png)
 
 Diode
 
-![](images/footprints/diode_0805.png)
+![](../images/footprints/diode_0805.png)
 
 LED
 
-![](images/footprints/led_0805.png)
+![](../images/footprints/led_0805.png)
 
 Inductor
 
-![](images/footprints/inductor_0805.png)
+![](../images/footprints/inductor_0805.png)
 
 Resistor
 
-![](images/footprints/resistor_0805.png)
+![](../images/footprints/resistor_0805.png)

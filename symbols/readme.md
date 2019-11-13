@@ -9,24 +9,24 @@
 
 ## Adafruit_nRF52_feather
 
-![](images/symbols/Adafruit_nRF52_feather.png)
+![](../images/symbols/Adafruit_nRF52_feather.png)
 
 ## Adafruit_sharp_display
 
-![](images/symbols/Adafruit_sharp_display.png)
+![](../images/symbols/Adafruit_sharp_display.png)
 
 ## Sensor_UV
 
-![](images/symbols/Sensor_UV.png)
+![](../images/symbols/Sensor_UV.png)
 
 ## Si7021_breakout_board
 
-![](images/symbols/Si7021_breakout_board.png)
+![](../images/symbols/Si7021_breakout_board.png)
 
 ## wemos_battery_shield
 
-![](images/symbols/wemos_battery_shield.png)
+![](../images/symbols/wemos_battery_shield.png)
 
 ## wemos_mini
 
-![](images/symbols/wemos_mini.png)
+![](../images/symbols/wemos_mini.png)
