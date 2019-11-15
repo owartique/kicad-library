@@ -1,22 +1,17 @@
 # Footprints
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-- [Push Button](#push-button)
+- [Push_Button](#push_button)
 - [Si7021](#si7021)
-- [wemos d1 mini](#wemos-d1-mini)
-- [wemos battery shield](#wemos-battery-shield)
-- [VEML6075 breakout board](#veml6075-breakout-board)
+- [wemos_d1_mini](#wemos_d1_mini)
+- [wemos_battery_shield](#wemos_battery_shield-1)
+- [VEML6075_breakout_board](#veml6075_breakout_board)
 - [nRF52 Bluefruit Feather Adafruit breakout board](#nrf52-bluefruit-feather-adafruit-breakout-board)
 - [CREE RGB LED 5.5mm x 5.5mm 6pin](#cree-rgb-led-55mm-x-55mm-6pin)
 - [Connector USB Micro-B Horizontal](#connector-usb-micro-b-horizontal)
 - [Battery holder for 3xAA Takachi](#battery-holder-for-3xaa-takachi)
 - [Passives 0805](#passives-0805)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Push Button
+## Push_Button
 
 ![](../images/footprints/Push_Button.png)
 
@@ -24,15 +19,15 @@
 
 ![](../images/footprints/Si7021.png)
 
-## wemos d1 mini
+## wemos_d1_mini
 
 ![](../images/footprints/wemos_d1_mini.png)
 
-## wemos battery shield
+## wemos_battery_shield
 
 ![](../images/footprints/wemos_battery_shield.png)
 
-## VEML6075 breakout board
+## VEML6075_breakout_board
 
 ![](../images/footprints/VEML6075_breakout_board.png)
 

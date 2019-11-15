@@ -1,11 +1,7 @@
 # 3D Models
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
 - [Micro USB-B connector](#micro-usb-b-connector)
 - [Push button SMD side](#push-button-smd-side)
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Micro USB-B connector
 
