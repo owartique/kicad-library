@@ -3,6 +3,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
 - [Push_Button](#push_button)
 - [Si7021](#si7021)
 - [wemos_d1_mini](#wemos_d1_mini)
@@ -14,6 +15,7 @@
 - [Battery holder for 3xAA Takachi](#battery-holder-for-3xaa-takachi)
 - [Passives 0805](#passives-0805)
 - [GPS CDTop MT3333 PA1010D](#gps-cdtop-mt3333-pa1010d)
+- [Panelization](#panelization)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
