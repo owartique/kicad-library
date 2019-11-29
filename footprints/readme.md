@@ -77,10 +77,12 @@ Resistor
 
 ## GPS CDTop MT3333 PA1010D
 
-![](../images/footprints/CDTop_MT3333_PA1010D)
+![](../images/footprints/CDTop_MT3333_PA1010D.png)
 
 ## Panelization
 
 With tabs and mouse bites.
 
 Credits: [Panelization by madworm](https://github.com/madworm/Panelization.pretty)
+
+![](../images/footprints/paneliaztion_2mm.png)
