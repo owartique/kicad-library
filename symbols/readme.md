@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Adafruit_nRF52_feather](#adafruit_nrf52_feather)
+- [Adafruit_sharp_display](#adafruit_sharp_display)
+- [Sensor_UV](#sensor_uv)
+- [Si7021_breakout_board](#si7021_breakout_board)
+- [wemos_battery_shield](#wemos_battery_shield)
+- [wemos_mini](#wemos_mini)
+- [Adafruit_LoRaWAN_RFM9x](#adafruit_lorawan_rfm9x)
+- [GPS_PA1010D](#gps_pa1010d)
+- [Waveshare 1.54inch E-ink](#waveshare-154inch-e-ink)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Symbols
 
 - [Adafruit_nRF52_feather](#adafruit_nrf52_feather)
@@ -40,3 +56,7 @@
 ## GPS_PA1010D
 
 ![](../images/symbols/PA1010D.png)
+
+## Waveshare 1.54inch E-ink
+
+![](../images/waveshare_1in54_epaper.png)
