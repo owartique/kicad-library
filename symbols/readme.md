@@ -14,17 +14,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Symbols
-
-- [Adafruit_nRF52_feather](#adafruit_nrf52_feather)
-- [Adafruit_sharp_display](#adafruit_sharp_display)
-- [Sensor_UV](#sensor_uv)
-- [Si7021_breakout_board](#si7021_breakout_board)
-- [wemos_battery_shield](#wemos_battery_shield)
-- [wemos_mini](#wemos_mini)
-- [Adafruit LoRaWAN RFM9x](#adafruit_lorawan_rfm9x)
-- [GPS PA1010D](#gps-pa1010d)
-
 ## Adafruit_nRF52_feather
 
 ![](../images/symbols/Adafruit_nRF52_feather.png)
@@ -59,4 +48,8 @@
 
 ## Waveshare 1.54inch E-ink
 
-![](../images/waveshare_1in54_epaper.png)
+![](../images/symbols/waveshare_1in54_epaper.png)
+
+## SiLabs CP2102 USB to UART bridge
+
+![](../images/symbols/SiLabs_CP2012_USB_UART_Bridge.png)
