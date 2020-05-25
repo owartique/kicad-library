@@ -11,6 +11,8 @@
 - [Adafruit_LoRaWAN_RFM9x](#adafruit_lorawan_rfm9x)
 - [GPS_PA1010D](#gps_pa1010d)
 - [Waveshare 1.54inch E-ink](#waveshare-154inch-e-ink)
+- [SiLabs CP2102 USB to UART bridge](#silabs-cp2102-usb-to-uart-bridge)
+- [Robotdyn M0 mini SAMD21](#robotdyn-m0-mini-samd21)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -53,3 +55,7 @@
 ## SiLabs CP2102 USB to UART bridge
 
 ![](../images/symbols/SiLabs_CP2012_USB_UART_Bridge.png)
+
+## Robotdyn M0 mini SAMD21
+
+![](../images/symbols/robotdyn_m0_mini.png)
