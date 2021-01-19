@@ -3,7 +3,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Push_Button](#push_button)
 - [Si7021](#si7021)
 - [wemos_d1_mini](#wemos_d1_mini)
@@ -88,3 +87,9 @@ With tabs and mouse bites.
 Credits: [Panelization by madworm](https://github.com/madworm/Panelization.pretty)
 
 ![](../images/footprints/paneliaztion_2mm.png)
+
+## HopeRF RFM95W-915S2
+
+Credit: [Swij/kicad-RFM9X](https://github.com/Swij/kicad-RFM9X)
+
+![](../images/footprints/HopeRF_RFM9X.png)
