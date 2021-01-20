@@ -17,6 +17,7 @@
 - [GPS CDTop MT3333 PA1010D](#gps-cdtop-mt3333-pa1010d)
 - [Panelization](#panelization)
 - [HopeRF RFM95W-915S2](#hoperf-rfm95w-915s2)
+- [Waveshare 1.54in E-Ink module](#waveshare-154in-e-ink-module)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -95,3 +96,7 @@ Credits: [Panelization by madworm](https://github.com/madworm/Panelization.prett
 Credit: [Swij/kicad-RFM9X](https://github.com/Swij/kicad-RFM9X)
 
 ![](../images/footprints/HopeRF_RFM9X.png)
+
+## Waveshare 1.54in E-Ink module
+
+![](../images/footprints/Waveshare_1in54_epaper.png)
