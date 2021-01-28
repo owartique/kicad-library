@@ -7,7 +7,7 @@ This repository has common [symbols](symbols), [footprints](footprints) and [3d 
 1. In each project, add this repository as a git submodule:
 
     ```sh
-    git add submodule https://github.com/hutscape/kicad-library.git hardware/library
+    git add submodule git@github.com:hutscape/kicad-library.git hardware/library
     ```
 1. Update the git submodule
 
