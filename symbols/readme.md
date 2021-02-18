@@ -7,6 +7,7 @@
 - [Adafruit PA1010D GPS](#adafruit-pa1010d-gps)
 - [Adafruit sharp display](#adafruit-sharp-display)
 - [CDTop PA1010D GPS](#cdtop-pa1010d-gps)
+- [RaspberryPI Pico dev board](#raspberrypi-pico-dev-board)
 - [Robotdyn SAMD21 M0 mini](#robotdyn-samd21-m0-mini)
 - [SiLabs CP2102 USB to UART bridge](#silabs-cp2102-usb-to-uart-bridge)
 - [SiLabs Si7021 breakout board](#silabs-si7021-breakout-board)
@@ -36,6 +37,12 @@
 ## CDTop PA1010D GPS
 
 ![](../images/symbols/cdtop_pa1010d_gps.png)
+
+## RaspberryPI Pico dev board
+
+Credit: [blippy on GitHub](https://github.com/blippy/rpi/tree/master/pico/kicad)
+
+![](../images/symbols/raspberryPI_pico.png)
 
 ## Robotdyn SAMD21 M0 mini
 
