@@ -6,6 +6,7 @@
 - [Adafruit nRF52 feather](#adafruit-nrf52-feather)
 - [Adafruit PA1010D GPS](#adafruit-pa1010d-gps)
 - [Adafruit sharp display](#adafruit-sharp-display)
+- [Adafruit VCNL4000 proximity sensor board](#adafruit-vcnl4000-proximity-sensor-board)
 - [CDTop PA1010D GPS](#cdtop-pa1010d-gps)
 - [RaspberryPI Pico dev board](#raspberrypi-pico-dev-board)
 - [Robotdyn SAMD21 M0 mini](#robotdyn-samd21-m0-mini)
@@ -33,6 +34,10 @@
 ## Adafruit sharp display
 
 ![](../images/symbols/adafruit_sharp_display.png)
+
+## Adafruit VCNL4000 proximity sensor board
+
+![](../images/symbols/adafruit_vcnl4000_board.png)
 
 ## CDTop PA1010D GPS
 
