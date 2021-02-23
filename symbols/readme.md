@@ -55,7 +55,7 @@ Credit: [blippy on GitHub](https://github.com/blippy/rpi/tree/master/pico/kicad)
 
 ## SiLabs CP2102 USB to UART bridge
 
-![](../images/symbols/silabs_cp2012_usb_uart_bridge.png)
+![](../images/symbols/SiLabs_CP2012_USB_UART_Bridge.png)
 
 ## SiLabs Si7021 breakout board
 
