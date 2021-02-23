@@ -8,6 +8,7 @@
 - [Adafruit sharp display](#adafruit-sharp-display)
 - [Adafruit VCNL4000 proximity sensor board](#adafruit-vcnl4000-proximity-sensor-board)
 - [CDTop PA1010D GPS](#cdtop-pa1010d-gps)
+- [Logic Level shifter 4-channel bidirectional](#logic-level-shifter-4-channel-bidirectional)
 - [RaspberryPI Pico dev board](#raspberrypi-pico-dev-board)
 - [Robotdyn SAMD21 M0 mini](#robotdyn-samd21-m0-mini)
 - [SiLabs CP2102 USB to UART bridge](#silabs-cp2102-usb-to-uart-bridge)
@@ -42,6 +43,10 @@
 ## CDTop PA1010D GPS
 
 ![](../images/symbols/cdtop_pa1010d_gps.png)
+
+## Logic Level shifter 4-channel bidirectional
+
+![](../images/symbols/level_shifter_4channel_bidirectional.png)
 
 ## RaspberryPI Pico dev board
 
